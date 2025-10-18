@@ -48,4 +48,5 @@ import Transformations
 -- Re-export useful stuff from base
 
 import Data.Proxy (Proxy (..))
+
 import GHC.TypeLits (KnownNat)
